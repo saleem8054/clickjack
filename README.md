@@ -27,6 +27,7 @@ www.developer.pubg.com
 ##### Output
 
 ```
-[-] www.bugcrowd.com is not vulnerable to ClickJacking
-[+] www.srsecure.xyz is vulnerable to ClickJacking
+[-] www.bugcrowd.com is not Vulnerable
+[+] www.srsecure.xyz is Vulnerable
+[+] www.developer.pubg.com is Vulnerable
 ```
