@@ -21,6 +21,7 @@ python3 clickjack.py sites.txt
 ```
 www.bugcrowd.com
 www.srsecure.xyz
+www.developer.pubg.com
 ```
 
 ##### Output
