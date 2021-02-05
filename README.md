@@ -1,6 +1,6 @@
 # Clickjacking Tester
 
-A python script designed to check if the website is vulnerable of clickjacking and saves the result into .txt file.
+A python script designed to check if the website is vulnerable of clickjacking and saves the result into Vulnerable.txt file.
 
 ### Usage
 
