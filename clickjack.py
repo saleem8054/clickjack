@@ -25,7 +25,7 @@ def listVulnerableSite(url):
 
 def main():
     try: sites = open(argv[1], 'r').readlines()
-    except: print("[*] Usage: python3 clickjacking_tester.py <file_name>"); exit(0)
+    except: print("[*] Usage: python3 clickjack.py <file_name>"); exit(0)
 
     for site in sites[0:]:
         status = check(site)
